@@ -1,0 +1,73 @@
+
+header {
+	font-size: 50px;
+	text-align: center;
+	padding: 4px;
+	background-color: rgb(125, 137, 155);
+    border-bottom: 4px solid rgb(22, 44, 81);
+    border-top: 4px solid rgb(22, 44, 81);
+	font-family: "Tangerine";
+	font-weight: 800;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Tangerine";
+}
+
+
+.welcome {
+	border-top:3px solid rgb(22, 44, 81);
+	border-bottom:3px solid rgb(22, 44, 81);
+	background: url("https://image.freepik.com/free-vector/floral-pattern-design_1182-14.jpg");
+	height: 200px;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	padding: 0px;
+	font-size: 80px;
+	font-family: tangerine;
+	font-weight: 700;
+	position: relative;
+	top: -45px;
+}
+
+p {
+	font-size: 36px;
+	text-align: center;
+	font-family: tangerine;
+	font-weight: 600;
+	position: relative;
+	top: -75px;
+	text-overflow: none;
+}
+
+#nav {
+	position: relative;
+	list-style-type: none;
+}
+
+#nav a{
+
+	padding: 5px;
+	text-decoration: none;
+	color:rgb(22, 44, 81);
+	font-family: roboto;
+	font-weight: 800;
+	background-color: rgb(125, 137, 155);
+	text-align: center;
+	width: 150px;
+	border: 2px solid rgb(22, 44, 81);
+	position: relative;
+	float: left;
+	margin: 10px 10px 10px 0px;
+	clear: both;
+}
+
+div { 
+	background: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10364134_10202195802436238_5992959695046091016_n.jpg?_nc_cat=0&oh=c925fb75b3c573b57cdabab0390b11be&oe=5B33E988");
+	position: relative;
+	margin: top 200px;
+}
